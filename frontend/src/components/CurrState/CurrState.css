@@ -1,0 +1,29 @@
+.curr-state{
+    display: flex;
+    align-items: center;
+    height: 5vh;
+    background-color: #80B9AD;
+    font-size: 20px;
+}
+
+.curr-algo{
+    flex: 1;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.curr-speed{
+    flex: 1;
+    border-left: 2px solid #B3E2A7;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.curr-state span{
+    font-weight: 600;
+}
+
